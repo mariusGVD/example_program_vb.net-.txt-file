@@ -1,0 +1,11 @@
+C:\Users\GGevod\AppData\Local\Temporary Projects\PracticaPoblacioEspanyola\bin\Debug\PracticaPoblacioEspanyola.exe.config
+C:\Users\GGevod\Documents\Visual Studio 2012\Projects\PracticaPoblacioEspanyola\PracticaPoblacioEspanyola\bin\Debug\PracticaPoblacioEspanyola.exe.config
+C:\Users\GGevod\Documents\Visual Studio 2012\Projects\PracticaPoblacioEspanyola\PracticaPoblacioEspanyola\bin\Debug\PracticaPoblacioEspanyola.exe
+C:\Users\GGevod\Documents\Visual Studio 2012\Projects\PracticaPoblacioEspanyola\PracticaPoblacioEspanyola\bin\Debug\PracticaPoblacioEspanyola.pdb
+C:\Users\GGevod\Documents\Visual Studio 2012\Projects\PracticaPoblacioEspanyola\PracticaPoblacioEspanyola\bin\Debug\PracticaPoblacioEspanyola.xml
+C:\Users\GGevod\Documents\Visual Studio 2012\Projects\PracticaPoblacioEspanyola\PracticaPoblacioEspanyola\obj\Debug\PracticaPoblacioEspanyola.Form1.resources
+C:\Users\GGevod\Documents\Visual Studio 2012\Projects\PracticaPoblacioEspanyola\PracticaPoblacioEspanyola\obj\Debug\PracticaPoblacioEspanyola.Resources.resources
+C:\Users\GGevod\Documents\Visual Studio 2012\Projects\PracticaPoblacioEspanyola\PracticaPoblacioEspanyola\obj\Debug\PracticaPoblacioEspanyola.vbproj.GenerateResource.Cache
+C:\Users\GGevod\Documents\Visual Studio 2012\Projects\PracticaPoblacioEspanyola\PracticaPoblacioEspanyola\obj\Debug\PracticaPoblacioEspanyola.exe
+C:\Users\GGevod\Documents\Visual Studio 2012\Projects\PracticaPoblacioEspanyola\PracticaPoblacioEspanyola\obj\Debug\PracticaPoblacioEspanyola.xml
+C:\Users\GGevod\Documents\Visual Studio 2012\Projects\PracticaPoblacioEspanyola\PracticaPoblacioEspanyola\obj\Debug\PracticaPoblacioEspanyola.pdb
